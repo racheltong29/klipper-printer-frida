@@ -1,0 +1,6 @@
+.idea
+.env
+/printer_data*
+__pycache__/
+*.bak
+.github/

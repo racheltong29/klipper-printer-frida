@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="1050" viewBox="0 0 1050 1050">
+<rect width="100%%" height="100%%" fill="#ffffff"/>
+<rect x="0" y="0" width="1050.0" height="1050.0" fill="none" stroke="#cccccc" stroke-width="1"/>
+<rect x="15.0" y="15.0" width="1020.0" height="1020.0" fill="none" stroke="#e8a0a0" stroke-width="0.8" stroke-dasharray="4 3"/>
+<path d="M0.00,1050.00 L225.00,345.00 M705.00,315.00 L195.00,585.00 M795.00,705.00 L135.00,225.00 M915.00,225.00 L645.00,465.00 M915.00,555.00 L375.00,465.00 M546.96,411.81 L525.00,765.00" fill="none" stroke="#7fb3ff" stroke-width="0.25" opacity="0.35"/>
+<path d="M225.00,345.00 L465.00,270.00 L705.00,315.00 M195.00,585.00 L375.00,675.00 L585.00,645.00 L795.00,705.00 M135.00,225.00 L915.00,225.00" fill="none" stroke="#161616" stroke-width="0.60" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M645.00,465.00 L825.00,435.00 L915.00,555.00" fill="none" stroke="#c0392b" stroke-width="0.60" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M375.00,465.00 L383.67,454.96 L392.62,445.81 L401.84,437.56 L411.34,430.21 L421.12,423.75 L431.17,418.19 L441.51,413.52 L452.12,409.74 L463.00,406.87 L474.17,404.89 L485.60,403.80 L497.32,403.61 L509.32,404.32 L521.59,405.92 L534.13,408.41 L546.96,411.81 M525.00,765.00 L538.23,760.08 L550.14,754.66 L560.75,748.72 L570.04,742.28 L578.03,735.32 L584.70,727.86 L590.07,719.89 L594.12,711.40 L596.86,702.41 L598.29,692.91 L598.41,682.90 L597.22,672.38 L594.72,661.34 L590.91,649.80 L585.79,637.75 L579.35,625.19" fill="none" stroke="#2d6cc0" stroke-width="0.60" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
